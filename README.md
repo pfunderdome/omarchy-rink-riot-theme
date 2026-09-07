@@ -8,13 +8,13 @@ retro roller-rink vibe.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<your-github-username>/omarchy-rink-riot-theme.git
+omarchy theme install https://github.com/pfunderdome/omarchy-rink-riot-theme.git
 ```
 
 Or clone it manually into `~/.config/omarchy/themes/`:
 
 ```bash
-git clone https://github.com/<your-github-username>/omarchy-rink-riot-theme.git \
+git clone https://github.com/pfunderdome/omarchy-rink-riot-theme.git \
   ~/.config/omarchy/themes/rink-riot
 omarchy theme set "Rink Riot"
 ```
